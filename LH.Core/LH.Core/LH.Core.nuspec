@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jwe.loghelper</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>werjo</authors>
+    <owners>werjo</owners>
+    <licenseUrl>https://github.com/werjo/LogHelper/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/werjo/LogHelper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple log helper</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>logging</tags>
+  </metadata>
+</package>
