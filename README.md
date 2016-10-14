@@ -1,0 +1,2 @@
+# LogHelper
+Simple log helper 
